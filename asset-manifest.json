@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reack-test/static/css/main.4a065a24.chunk.css",
+    "main.js": "/reack-test/static/js/main.a14c5834.chunk.js",
+    "main.js.map": "/reack-test/static/js/main.a14c5834.chunk.js.map",
+    "runtime-main.js": "/reack-test/static/js/runtime-main.e9c07c65.js",
+    "runtime-main.js.map": "/reack-test/static/js/runtime-main.e9c07c65.js.map",
+    "static/js/2.e2883dc0.chunk.js": "/reack-test/static/js/2.e2883dc0.chunk.js",
+    "static/js/2.e2883dc0.chunk.js.map": "/reack-test/static/js/2.e2883dc0.chunk.js.map",
+    "static/js/3.1e9cfe8f.chunk.js": "/reack-test/static/js/3.1e9cfe8f.chunk.js",
+    "static/js/3.1e9cfe8f.chunk.js.map": "/reack-test/static/js/3.1e9cfe8f.chunk.js.map",
+    "index.html": "/reack-test/index.html",
+    "static/css/main.4a065a24.chunk.css.map": "/reack-test/static/css/main.4a065a24.chunk.css.map",
+    "static/js/2.e2883dc0.chunk.js.LICENSE.txt": "/reack-test/static/js/2.e2883dc0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9c07c65.js",
+    "static/js/2.e2883dc0.chunk.js",
+    "static/css/main.4a065a24.chunk.css",
+    "static/js/main.a14c5834.chunk.js"
+  ]
+}
