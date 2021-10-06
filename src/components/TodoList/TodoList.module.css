@@ -1,0 +1,16 @@
+.TodoList {
+  max-width: 600px;
+  background-color: rgb(240, 247, 228);
+  padding: 0;
+}
+.TodoListItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border: 1px solid black;
+}
+.TodoBtn {
+  padding: 5px;
+  background-color: rgb(253, 194, 139);
+  border-radius: 5px;
+}

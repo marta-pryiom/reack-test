@@ -1,0 +1,7 @@
+[
+  { "id": "01", "text": "Вивчити HTML", "completed": true },
+  { "id": "02", "text": "Вивчити CSS", "completed": true },
+  { "id": "03", "text": "Вивчити React", "completed": false },
+  { "id": "04", "text": "Вивчити Redux", "completed": false },
+  { "id": "05", "text": "Вивчити React", "completed": false }
+]
