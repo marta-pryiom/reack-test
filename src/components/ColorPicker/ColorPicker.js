@@ -1,17 +1,18 @@
 import React, { Component } from 'react';
 import s from './ColorPicker.module.css';
-// console.log(s);
+import classNames from 'classnames/bind';
+
+const cx = classNames.bind(s);
 class ColorPicker extends Component {
   state = {
     activeOptionIdx: 2,
   };
 
   makeOptionClases = index => {
-    const classes = [s.ColorPickerOption];
-    if (index === this.state.activeOptionIdx) {
-      classes.push(s.ColorPickerOptionActive);
-    }
-    return classes.join(' ');
+    const className = cx(['ColorPickerOption'], {
+      ColorPickerOptionActive: index === this.state.activeOptionIdx,
+    });
+    return className;
   };
   setActiveIdx = index => {
     this.setState({
